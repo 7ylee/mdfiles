@@ -6,7 +6,8 @@ title: other-post
 
 image test
 
-![Minion](../images/img_test.jpg)
+<!-- ![testimage](../images/img_test.jpg) -->
+![testimage](https://raw.githubusercontent.com/7ylee/mdfiles/master/images/img_test.jpg);
 
 ## some code snippets
 
