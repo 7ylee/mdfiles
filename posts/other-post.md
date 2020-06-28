@@ -14,3 +14,29 @@ image test
 ``` js
 const greetings = name => `greetings ${name||'human'}`;
 ```
+
+``` scss
+@import '../mixin';
+
+.class {
+    strong {
+        font-weight: bold
+    }
+}
+
+```
+
+``` css
+.class {
+    font-weight: bold
+}
+
+```
+
+``` html
+<div>
+    <h1>h1 tag</h1>
+    <p>paragrpah</p>
+</div>
+```
+
