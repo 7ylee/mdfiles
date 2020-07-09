@@ -1,5 +1,8 @@
 ---
 title: other-post
+desc: some description for meta description
+tags: ['js', 'html', 'css']
+date: 2020-07-09
 ---
 
 # other-post
@@ -39,4 +42,3 @@ const greetings = name => `greetings ${name||'human'}`;
     <p>paragrpah</p>
 </div>
 ```
-
