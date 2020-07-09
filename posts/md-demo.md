@@ -1,13 +1,10 @@
 ---
-__Advertisement :)__
+title: md-demo
+desc: some description for meta description
+tags: ['js', 'md', 'css']
 
-- __[pica](https://nodeca.github.io/pica/demo/)__ - high quality and fast image
-  resize in browser.
-- __[babelfish](https://github.com/nodeca/babelfish/)__ - developer friendly
-  i18n with plurals support and easy syntax.
-
-You will like those projects!
-
+date: 2020-07-09
+links: ['other-post', 'test-post']
 ---
 
 # h1 Heading 8-)

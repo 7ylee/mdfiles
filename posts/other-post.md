@@ -3,6 +3,7 @@ title: other-post
 desc: some description for meta description
 tags: ['js', 'html', 'css']
 date: 2020-07-09
+links: ['md-demo', 'test-post']
 ---
 
 # other-post
