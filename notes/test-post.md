@@ -4,7 +4,7 @@ desc: some description for meta description
 tags: ['js', 'html', 'css']
 
 date: 2020-07-09
-links: ['md-demo.md', 'other-post.md']
+links: ['md-demo', 'other-post']
 ---
 
 # test-post

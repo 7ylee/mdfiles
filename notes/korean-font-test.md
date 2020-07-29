@@ -4,7 +4,7 @@ desc: 꽃 가치를 인도하겠다는 아니더면, 붙잡아 하는 구하지 
 tags: ['js', 'md', 'css']
 
 date: 2020-07-29
-links: ['other-post.md', 'test-post.md']
+links: ['other-post', 'test-post']
 ---
 
 # 꽃 가치를 인도하겠다는 아니더면, 붙잡아 하는 구하지 얼마나 뜨거운지라, 보라.
