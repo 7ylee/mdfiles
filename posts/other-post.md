@@ -6,12 +6,12 @@ date: 2020-07-09
 links: ['md-demo', 'test-post']
 ---
 
-# other-post
+## other-post
 
 image test
 
 <!-- ![testimage](../images/img_test.jpg) -->
-![testimage](https://raw.githubusercontent.com/7ylee/mdfiles/master/images/img_test.jpg);
+![testimage](https://raw.githubusercontent.com/7ylee/mdfiles/master/images/img_test.jpg)
 
 ## some code snippets
 
