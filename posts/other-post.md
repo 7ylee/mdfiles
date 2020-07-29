@@ -6,7 +6,7 @@ date: 2020-07-09
 links: ['md-demo', 'test-post']
 ---
 
-## other-post
+# other-post
 
 image test
 

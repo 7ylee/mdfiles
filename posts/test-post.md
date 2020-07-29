@@ -7,7 +7,7 @@ date: 2020-07-09
 links: ['md-demo', 'other-post']
 ---
 
-## test-post
+# test-post
 
  Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere vitae suscipit ipsum? Mollitia eos hic et dolore quo! Placeat, cumque!
 
